@@ -1,0 +1,7 @@
+IMPORTANTE:
+
+Use NetBeans em versão inferior a versão 22 devido a compatibilidade com o java 11.
+
+Use JDK 11 versão superiores são incompatíveis
+
+Após abrir o projeto (2023GDM) faça um build e aguarde o download das dependências que serão baixadas auto
